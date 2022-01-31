@@ -1,5 +1,7 @@
 # BikeSharing
 
+[link to dashboard](https://public.tableau.com/views/BikeSharingChallenge_16436038675530/CheckoutTimesforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## Overview of the analysis: 
 * Explain the purpose of this analysis.
 
